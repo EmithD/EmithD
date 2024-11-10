@@ -1,1 +1,1 @@
-
+<iframe src="https://giphy.com/embed/bB3FrjpQ3w8ms" width="336" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/pixel-fall-autumn-bB3FrjpQ3w8ms">via GIPHY</a></p>
