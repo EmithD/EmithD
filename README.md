@@ -8,7 +8,7 @@
     </p>
   </div>
   <div aling="center">
-    <p>Born to sleep. Forced to make pristine software. < /br><a href="https://www.linkedin.com/in/emith-dinsara-2b8282231/"><i class="fa fa-linkedin-square" style="font-size:48px;color:red" ></i></a></p>
+    <p>Born to sleep. Forced to make pristine software.<a href="https://www.linkedin.com/in/emith-dinsara-2b8282231/"><i class="fa fa-linkedin-square" style="font-size:48px;color:red" ></i></a></p>
   </div>
 </body>
 
