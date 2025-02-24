@@ -3,7 +3,7 @@
        alt="whachu doin here" width="400"/>
   <p><code>Born to sleep. Forced to make pristine software.</code></p>
   <a href="https://www.linkedin.com/in/emith-dinsara-2b8282231/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" 
+    <img src="https://www.citypng.com/public/uploads/preview/download-linkedin-square-purple-icon-png-701751694974001rjxj2ew7jc.png" 
          alt="LinkedIn" width="40"/>
   </a>
 </div>
