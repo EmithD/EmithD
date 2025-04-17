@@ -1,8 +1,5 @@
 <div align="center">
-
-
-  
-   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDB2djd4enplZjZpeWRhdDViM3pvYjd6YmF4d21vbnIxdXFpN2x3ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l4FGvN3n3IQi4xZNS/giphy.gif" 
+   <img src="https://tenor.com/view/fernando-alonso-fernando-alonso-f1-formula-1-gif-8618972717474101650" 
        alt="whachu doin here" width="400"/> 
   <p><code>Born to sleep. Forced to make pristine software.</code></p>
   <a href="https://www.linkedin.com/in/emith-dinsara-2b8282231/" target="_blank">
